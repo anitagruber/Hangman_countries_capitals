@@ -11,7 +11,17 @@ The game includes difficulty levels, dynamic word categorization, ASCII-based vi
 ---
 ## Gameplay Preview
 
-![Game Menu](menu.jpg)
+### Main Menu
+![Main Menu](menu.jpg)
+
+### Active Gameplay
+![Gameplay](gameplay.jpg)
+
+### Winning Screen
+![Winning Screen](win-screen.jpg)
+
+### Game Over Screen
+![Game Over Screen](game-over.jpg)
 
 ---
 ## Features
@@ -120,5 +130,7 @@ Wrong guesses: T, B
 ## Authors
 
 Anita Gruber, Nagy Zoltán
+
+---
 Data Analytics & Python Portfolio Project
 
