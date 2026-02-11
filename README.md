@@ -127,6 +127,13 @@ Wrong guesses: T, B
 
 ---
 
+## Live Demo
+
+You can try the deployed Streamlit version here:
+
+🔗 https://hangman-anita.streamlit.app
+
+---
 ## Authors
 
 Anita Gruber, Nagy Zoltán
